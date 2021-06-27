@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi, I'm Lenilson "Lenny" Nascimento
 
-<!--
-**l-Leniac-l/l-Leniac-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Software engineer at <a href="https://foobar.agency" target="_blank">foobarAgency</a>*
 
-Here are some ideas to get you started:
+*Personal website <a href="https://leniac.dev" target="_blank">leniac.dev</a>*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin: leniac](https://img.shields.io/badge/-leniac-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leniac/)](https://www.linkedin.com/in/leniac/)
+[![GitHub l-Leniac-l](https://img.shields.io/github/followers/l-leniac-l?label=follow&style=social)](https://github.com/l-leniac-l)
+
+### More about me...
+
+| | |
+|-|-|
+| Pronouns | He/Him |
+| Age | 26 |
+| Speaks | Portuguese (native), English (advanced), German (beginner) |
+| Codes | Javascript, Typescript, Python, Go |
+| Libs & Frameworks | Next.js, Gatsby.js, React, Redux, Redux Saga, Jest, Styled Components, Styled JSX, Express, Tensorflow, Keras, Pandas |
+| Tools | Docker, Kubernetes, Knative, Spark, Kafka, Cloud Events, Serverless Framework |
+| Cloud | Google Cloud, AWS |
+
+
+### Stats...
+<a href="https://leniac.dev/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=l-leniac-l&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=fff&bg_color=202020&theme=white" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-leniac-l&hide=html,jupyter%20notebook,java,objective-c,css,shell,dockerfile&hide_title=true&hide_border=true&layout=compact&langs_count=5&text_color=fff&icon_color=fff&bg_color=202020&theme=white" /></a>
