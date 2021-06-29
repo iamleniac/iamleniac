@@ -13,7 +13,7 @@
 |-|-|
 | Pronouns | He/Him |
 | Age | 26 |
-| Speaks | Portuguese (native), English (advanced), German (beginner) |
+| Speaks | Portuguese (native), English (fluent), German (beginner) |
 | Codes | Javascript, Typescript, Python, Go |
 | Libs & Frameworks | Next.js, Gatsby.js, React, Redux, Redux Saga, Jest, Styled Components, Styled JSX, Express, Tensorflow, Keras, Pandas |
 | Tools | Docker, Kubernetes, Knative, Spark, Kafka, Cloud Events, Serverless Framework |
