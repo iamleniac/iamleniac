@@ -11,7 +11,6 @@
 
 | | |
 |-|-|
-| Pronouns | He/Him |
 | Age | 26 |
 | Speaks | Portuguese (native), English (fluent), German (beginner) |
 | Codes | Javascript, Typescript, Python, Go |
