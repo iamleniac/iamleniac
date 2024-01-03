@@ -11,7 +11,7 @@
 
 | | |
 |-|-|
-| Age | 26 |
+| Age | 29 |
 | Speaks | Portuguese (native), English (fluent), German (beginner) |
 | Codes | Javascript, Typescript, Python, Go |
 | Libs & Frameworks | Next.js, React, Redux, Redux Saga, Jest, Styled Components, Styled JSX, Express, Tensorflow, Keras, Pandas |
