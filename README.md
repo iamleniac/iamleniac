@@ -1,4 +1,4 @@
-## Hi, I'm Lenilson "Lenny" Nascimento
+## Hi, I'm Lenilson "Leni" Nascimento
 
 *Software engineer at <a href="https://www.gi-de.com" target="_blank">Giesecke+Devrient</a>*
 
